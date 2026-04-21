@@ -3,3 +3,14 @@
     background-repeat: no-repeat; 
     background-image:url(/images/Purple\ Simple\ Abstract\ Background\ Instagram\ Story.png) ;
 } */ 
+
+
+.bg-img{
+     background-size: cover;
+     background-position:center ;
+     background-repeat: no-repeat; 
+    background-image: url(https://www.heart.org/en/-/media/Healthy-Living-Images/Healthy-Lifestyle/Sleep/woman_sleeping_in_her_bed_at_home.jpg?h=530&iar=0&mw=1910&w=890&sc_lang=en);
+
+}
+
+
